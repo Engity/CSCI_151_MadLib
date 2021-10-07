@@ -1,12 +1,18 @@
 # CSCI_151_MadLib
-Instruction
+
+**Instruction**  
+
 The story is written in story.txt file
-The gaps are identified using a pair of <>
-Between this pair is what type of word the user should be replacing
-Example: <proper noun> went to the <place> to get some <thing>
+
+The gaps are identified using a pair of <>  
+
+Between this pair is what type of word the user should be replacing 
+
+Example: <proper noun> went to the <place> to get some <thing>  
 
 
-#About Mad libs
+**About Mad libs**
+
 A mad lib is a word game where you take a short story (usually only a paragraph long) and remove several words from it and replace them with alternative words with matching grammatical structure. The fun comes from the fact that the replacement words are provided by somebody who has not yet read the story, and so once the story is re-composed, it becomes silly and non-sensical.
 
 For example, if you have the sentence:

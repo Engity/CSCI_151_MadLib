@@ -93,6 +93,13 @@ void replaceWords(){
 }
 
 int main(){
+
+    cout << "Instruction\n\t";
+    cout << "The story is written in story.txt file\n\t";
+    cout << "The gaps are identified using a pair of <>\n\t";  
+    cout << "Between this pair is what type of word the user should be replacing\n\t";
+    cout << "Example: <proper noun> went to the <place> to get some <thing>\n\n";
+
     inputingStory();
     inputReplacingWords();
     replaceWords();
